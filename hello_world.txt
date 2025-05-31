@@ -1,3 +1,5 @@
 Open the chat window and fuck yourself.
 
 The second line contains the second practice text in the text file.
+
+The Third line represents the changes in the both files.
